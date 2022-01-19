@@ -1,0 +1,15 @@
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\bin\Debug\net6.0\SonarRepoTest.exe
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\bin\Debug\net6.0\SonarRepoTest.deps.json
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\bin\Debug\net6.0\SonarRepoTest.runtimeconfig.json
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\bin\Debug\net6.0\SonarRepoTest.dll
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\bin\Debug\net6.0\ref\SonarRepoTest.dll
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\bin\Debug\net6.0\SonarRepoTest.pdb
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.csproj.AssemblyReference.cache
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.AssemblyInfoInputs.cache
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.AssemblyInfo.cs
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.csproj.CoreCompileInputs.cache
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.dll
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\ref\SonarRepoTest.dll
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.pdb
+C:\projects\Jigsaw\sonar_cload_test\SonarRepoTest\SonarRepoTest\obj\Debug\net6.0\SonarRepoTest.genruntimeconfig.cache
