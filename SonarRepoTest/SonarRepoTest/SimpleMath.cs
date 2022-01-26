@@ -11,5 +11,10 @@
         {
             return a - b;
         }
+
+        public bool IsEven(int a)
+        {
+            return a / 2 == 0;
+        }
     }
 }
