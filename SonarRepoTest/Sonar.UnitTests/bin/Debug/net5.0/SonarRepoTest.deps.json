@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SonarRepoTest/1.0.0": {
+        "runtime": {
+          "SonarRepoTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SonarRepoTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
